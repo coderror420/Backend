@@ -1,1 +1,1 @@
-export const DB_NAME="FUREAL"
+export const DB_NAME="videotube"
